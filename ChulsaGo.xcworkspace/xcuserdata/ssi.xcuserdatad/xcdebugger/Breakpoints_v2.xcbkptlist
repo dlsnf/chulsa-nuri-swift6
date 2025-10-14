@@ -20,28 +20,28 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "2C21D76E-AE40-4C81-A760-AA6D784B895D - 606a2fec938aba6"
+                  uuid = "2C21D76E-AE40-4C81-A760-AA6D784B895D - d6c2fb71ff3a611f"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 (Swift.Optional&lt;KakaoSDKAuth.OAuthToken&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChulsaGo.LoginViewController.getKaKaoValue() -&gt; ()"
                   moduleName = "ChulsaGo.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri/ChulsaGo/LoginViewController.swift"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/LoginViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "200"
                   endingLineNumber = "200">
                </Location>
                <Location
-                  uuid = "2C21D76E-AE40-4C81-A760-AA6D784B895D - 606a2fec938aba6"
+                  uuid = "2C21D76E-AE40-4C81-A760-AA6D784B895D - d6c2fb71ff3a611f"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 (Swift.Optional&lt;KakaoSDKAuth.OAuthToken&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChulsaGo.LoginViewController.getKaKaoValue() -&gt; ()"
                   moduleName = "ChulsaGo.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri/ChulsaGo/LoginViewController.swift"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/LoginViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "200"
@@ -66,28 +66,28 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "173990E3-FC20-404C-BBEC-30545F23E3E1 - 7662e60778cf915c"
+                  uuid = "173990E3-FC20-404C-BBEC-30545F23E3E1 - a6a6bf884ecd5bab"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "ChulsaGo.LoginViewController.getKaKaoValue() -&gt; ()"
                   moduleName = "ChulsaGo.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri/ChulsaGo/LoginViewController.swift"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/LoginViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "199"
                   endingLineNumber = "199">
                </Location>
                <Location
-                  uuid = "173990E3-FC20-404C-BBEC-30545F23E3E1 - 606a2fec938ab87"
+                  uuid = "173990E3-FC20-404C-BBEC-30545F23E3E1 - d6c2fb71ff3a6170"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 (Swift.Optional&lt;KakaoSDKAuth.OAuthToken&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChulsaGo.LoginViewController.getKaKaoValue() -&gt; ()"
                   moduleName = "ChulsaGo.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri/ChulsaGo/LoginViewController.swift"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/LoginViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "199"
@@ -144,28 +144,28 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "2A0C2212-E0E8-42A3-85FA-D009C81F9894 - 51b80918320a8971"
+                  uuid = "2A0C2212-E0E8-42A3-85FA-D009C81F9894 - 775c0ab4c534df98"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 (Swift.Optional&lt;KakaoSDKUser.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChulsaGo.EulaViewController.getKaKaoValue() -&gt; ()"
                   moduleName = "ChulsaGo.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri/ChulsaGo/EulaViewController.swift"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/EulaViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "53"
                   endingLineNumber = "53">
                </Location>
                <Location
-                  uuid = "2A0C2212-E0E8-42A3-85FA-D009C81F9894 - 51b80918320a8971"
+                  uuid = "2A0C2212-E0E8-42A3-85FA-D009C81F9894 - 775c0ab4c534df98"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 (Swift.Optional&lt;KakaoSDKUser.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChulsaGo.EulaViewController.getKaKaoValue() -&gt; ()"
                   moduleName = "ChulsaGo.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri/ChulsaGo/EulaViewController.swift"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/EulaViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "53"
@@ -190,28 +190,28 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "5B3CABC7-BE0F-4A41-A1B8-1CDDAC0C80F8 - 463d50d9da0c12b9"
+                  uuid = "5B3CABC7-BE0F-4A41-A1B8-1CDDAC0C80F8 - 60d953752d324c10"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "ChulsaGo.EulaViewController.btnEulaPress(__C.UIBarButtonItem) -&gt; ()"
                   moduleName = "ChulsaGo.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri/ChulsaGo/EulaViewController.swift"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/EulaViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "23"
                   endingLineNumber = "23">
                </Location>
                <Location
-                  uuid = "5B3CABC7-BE0F-4A41-A1B8-1CDDAC0C80F8 - b4f339d6d7f8eabf"
+                  uuid = "5B3CABC7-BE0F-4A41-A1B8-1CDDAC0C80F8 - 92173a7a20c6b416"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 (Swift.Optional&lt;KakaoSDKAuth.OAuthToken&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChulsaGo.EulaViewController.btnEulaPress(__C.UIBarButtonItem) -&gt; ()"
                   moduleName = "ChulsaGo.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri/ChulsaGo/EulaViewController.swift"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/EulaViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "23"
@@ -380,28 +380,28 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "9F5B3CC5-9E7D-4442-8660-2728F2106BB7 - 70e14bbed69ed119"
+                  uuid = "9F5B3CC5-9E7D-4442-8660-2728F2106BB7 - 3590657d97a2d872"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "ChulsaGo.pinDetailViewController.doubleImageViewTap(ChulsaGo.MyTapGestureRecognizer) -&gt; ()"
                   moduleName = "ChulsaGo.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri/ChulsaGo/pinDetailViewController.swift"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/pinDetailViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1152"
                   endingLineNumber = "1152">
                </Location>
                <Location
-                  uuid = "9F5B3CC5-9E7D-4442-8660-2728F2106BB7 - 9030fb755b16dfbf"
+                  uuid = "9F5B3CC5-9E7D-4442-8660-2728F2106BB7 - d541d5b61a2ad6d4"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #3 @Swift.MainActor @Sendable () -&gt; () in ChulsaGo.pinDetailViewController.doubleImageViewTap(ChulsaGo.MyTapGestureRecognizer) -&gt; ()"
                   moduleName = "ChulsaGo.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri/ChulsaGo/pinDetailViewController.swift"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/pinDetailViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1152"
