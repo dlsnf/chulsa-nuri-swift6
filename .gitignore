@@ -1,1 +1,4 @@
-AppDelegate.swift
+AppDelegate.swift.DS_Store
+*.DS_Store
+xcuserdata/
+*.xcuserstate
