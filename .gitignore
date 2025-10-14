@@ -3,4 +3,4 @@ AppDelegate.swift
 *.DS_Store
 xcuserdata/
 *.xcuserstate
-Info.plist
+ChulsaGo/Info.plist
