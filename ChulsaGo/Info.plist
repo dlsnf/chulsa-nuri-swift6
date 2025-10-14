@@ -32,10 +32,10 @@
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>KAKAO_APP_KEY</key>
-	<string>ac2123722007eeb1657b73a2b6621a92</string>
+	<string></string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>kakaoac2123722007eeb1657b73a2b6621a92</string>
+		<string></string>
 		<string>kakaokompassauth</string>
 		<string>storykompassauth</string>
 		<string>kakaolink</string>
