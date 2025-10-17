@@ -99,146 +99,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "DFCD6ACA-A314-4FB5-BD0E-500115A5162B"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChulsaGo/EulaViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
-            landmarkName = "btnEulaPress(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "EF4D28AC-AC17-4D4F-A4C0-0DE35382A40A"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChulsaGo/EulaViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "btnEulaPress(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2A0C2212-E0E8-42A3-85FA-D009C81F9894"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChulsaGo/EulaViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
-            landmarkName = "getKaKaoValue()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "2A0C2212-E0E8-42A3-85FA-D009C81F9894 - 775c0ab4c534df98"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;KakaoSDKUser.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChulsaGo.EulaViewController.getKaKaoValue() -&gt; ()"
-                  moduleName = "ChulsaGo.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/EulaViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "53"
-                  endingLineNumber = "53">
-               </Location>
-               <Location
-                  uuid = "2A0C2212-E0E8-42A3-85FA-D009C81F9894 - 775c0ab4c534df98"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;KakaoSDKUser.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChulsaGo.EulaViewController.getKaKaoValue() -&gt; ()"
-                  moduleName = "ChulsaGo.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/EulaViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "53"
-                  endingLineNumber = "53">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5B3CABC7-BE0F-4A41-A1B8-1CDDAC0C80F8"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChulsaGo/EulaViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "btnEulaPress(_:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "5B3CABC7-BE0F-4A41-A1B8-1CDDAC0C80F8 - 60d953752d324c10"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ChulsaGo.EulaViewController.btnEulaPress(__C.UIBarButtonItem) -&gt; ()"
-                  moduleName = "ChulsaGo.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/EulaViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23">
-               </Location>
-               <Location
-                  uuid = "5B3CABC7-BE0F-4A41-A1B8-1CDDAC0C80F8 - 92173a7a20c6b416"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;KakaoSDKAuth.OAuthToken&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChulsaGo.EulaViewController.btnEulaPress(__C.UIBarButtonItem) -&gt; ()"
-                  moduleName = "ChulsaGo.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/EulaViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "7C4D9B2A-A744-4CA0-B987-63932F63C2CA"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Pods/KakaoSDKAuth/Sources/KakaoSDKAuth/auth/AuthController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "150"
-            endingLineNumber = "150"
-            landmarkName = "_authorizeWithTalk(launchMethod:prompts:channelPublicIds:serviceTerms:nonce:completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "89F867C3-E357-42FB-A668-3A48D055EA00"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -297,38 +157,6 @@
             startingLineNumber = "566"
             endingLineNumber = "566"
             landmarkName = "_certAuthorizeWithTalk(launchMethod:prompts:channelPublicIds:serviceTerms:nonce:kauthTxId:completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "A94C8B9D-A108-44BA-AF14-F5B6AB7F38E0"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChulsaGo/EulaViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
-            landmarkName = "btnEulaPress(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "C35D30A3-0F23-492D-9C51-76864719D382"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChulsaGo/EulaViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "80"
-            endingLineNumber = "80"
-            landmarkName = "getKaKaoValue()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -503,6 +331,38 @@
             startingLineNumber = "462"
             endingLineNumber = "462"
             landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45286538-39E0-4D7A-92D8-EA2B9D8C23E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChulsaGo/MyPageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "321"
+            endingLineNumber = "321"
+            landmarkName = "userBlock()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4412AF6-2B83-422A-BF69-9975986163B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChulsaGo/MyPageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "319"
+            endingLineNumber = "319"
+            landmarkName = "userBlock()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

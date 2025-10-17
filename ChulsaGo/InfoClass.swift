@@ -128,7 +128,7 @@ class InfoClass : UIViewController {
                        initialSpringVelocity:0,
                        options: .curveEaseInOut,
                        animations: {
-                        self.infoVC.view.bounds.origin.y = -(height + 16);
+                        self.infoVC.view.bounds.origin.y = -(height + 34);
                         
                         
         }, completion: { (finished) -> Void in
@@ -271,7 +271,7 @@ class InfoClass2 : UIViewController {
                        initialSpringVelocity:0,
                        options: .curveEaseInOut,
                        animations: {
-                        self.infoVC.view.bounds.origin.y = -(height + 16);
+                        self.infoVC.view.bounds.origin.y = -(height + 34);
                         
                         
         }, completion: { (finished) -> Void in

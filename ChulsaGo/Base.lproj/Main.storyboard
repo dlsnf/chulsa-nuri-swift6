@@ -736,14 +736,14 @@
                         <viewControllerLayoutGuide type="bottom" id="ggK-PR-ZQo"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="c4X-se-Yhp">
-                        <rect key="frame" x="0.0" y="0.0" width="402" height="812"/>
+                        <rect key="frame" x="0.0" y="0.0" width="402" height="874"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="OCs-Y9-Oco" userLabel="subView">
-                                <rect key="frame" x="0.0" y="70" width="402" height="742"/>
+                                <rect key="frame" x="0.0" y="178" width="402" height="696"/>
                                 <subviews>
                                     <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="olz-5g-zAc">
-                                        <rect key="frame" x="0.0" y="0.0" width="402" height="742"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="402" height="696"/>
                                         <subviews>
                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="1BU-YK-VOB">
                                                 <rect key="frame" x="8" y="60" width="386" height="380"/>
@@ -940,13 +940,13 @@
                         <viewControllerLayoutGuide type="bottom" id="kKT-gy-npr"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="T2P-5c-QFv">
-                        <rect key="frame" x="0.0" y="0.0" width="402" height="812"/>
+                        <rect key="frame" x="0.0" y="0.0" width="402" height="874"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="qLi-Fo-1Kb">
-                                <rect key="frame" x="16" y="70" width="370" height="708"/>
+                                <rect key="frame" x="16" y="178" width="370" height="628"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">환영합니다!
+                                <string key="text">환영합니다!
 
 출사누리(ChulsaNuri)를 이용해 주셔서 감사합니다. 출사누리는 다양한 인터넷과 모바일 서비스(Application)를 여러분이 가장 편안하고 친근하게 이용할 수 있는 방법으로 제공하고 있습니다. 출사누리는 여러분이 출사누리 서비스에 더 가깝게 다가갈 수 있도록 출사누리계정을 기반으로 하는 모든 출사누리 서비스에 적용될 수 있는 하나의 약관을 마련하였습니다. 여러분이 조금만 시간을 내서 약관을 읽어주신다면, 여러분과 출사누리는 더욱 가까운 사이가 될 것이라고 믿습니다.
 
@@ -1031,7 +1031,7 @@
 이용자의 개인정보는 개인정보의 수집 및 이용 목적이 달성되면 관련 법령 또는 회사 내부 방침에 의해 보존할 필요가 있는 경우를 제외하고는 지체 없이 파기됩니다.
 4. 비밀번호는 암호화 되어 저장됩니다. 
 더 자세한 내용에 대해서는 출사누리 개인정보취급방침을 참고하시길 바랍니다.
-</mutableString>
+</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -1065,14 +1065,14 @@
                         <viewControllerLayoutGuide type="bottom" id="tVn-ex-8vp"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="J9P-Ez-dMh">
-                        <rect key="frame" x="0.0" y="0.0" width="402" height="812"/>
+                        <rect key="frame" x="0.0" y="0.0" width="402" height="874"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jWL-QV-DQE" userLabel="subView">
-                                <rect key="frame" x="0.0" y="70" width="402" height="708"/>
+                                <rect key="frame" x="0.0" y="178" width="402" height="628"/>
                                 <subviews>
                                     <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="oJO-57-SZw">
-                                        <rect key="frame" x="0.0" y="0.0" width="402" height="708"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="402" height="628"/>
                                         <subviews>
                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="Xvb-nU-pfj">
                                                 <rect key="frame" x="8" y="140" width="386" height="170"/>
@@ -2183,7 +2183,7 @@
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="jWn-kT-V2e" customClass="LoginNaviController" customModule="ChulsaGo" customModuleProvider="target" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="AFY-Wp-ioT">
-                        <rect key="frame" x="0.0" y="16" width="402" height="54"/>
+                        <rect key="frame" x="0.0" y="124" width="402" height="54"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -4032,13 +4032,13 @@
                         <viewControllerLayoutGuide type="bottom" id="urR-Jd-rD3"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="bsN-GI-Ifu">
-                        <rect key="frame" x="0.0" y="0.0" width="402" height="812"/>
+                        <rect key="frame" x="0.0" y="0.0" width="402" height="874"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="OZn-uH-mzL">
-                                <rect key="frame" x="16" y="70" width="370" height="708"/>
+                                <rect key="frame" x="16" y="178" width="370" height="628"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">환영합니다!
+                                <string key="text">환영합니다!
 
 출사누리(ChulsaNuri)를 이용해 주셔서 감사합니다. 출사누리는 다양한 인터넷과 모바일 서비스(Application)를 여러분이 가장 편안하고 친근하게 이용할 수 있는 방법으로 제공하고 있습니다. 출사누리는 여러분이 출사누리 서비스에 더 가깝게 다가갈 수 있도록 출사누리계정을 기반으로 하는 모든 출사누리 서비스에 적용될 수 있는 하나의 약관을 마련하였습니다. 여러분이 조금만 시간을 내서 약관을 읽어주신다면, 여러분과 출사누리는 더욱 가까운 사이가 될 것이라고 믿습니다.
 
@@ -4123,7 +4123,7 @@
 이용자의 개인정보는 개인정보의 수집 및 이용 목적이 달성되면 관련 법령 또는 회사 내부 방침에 의해 보존할 필요가 있는 경우를 제외하고는 지체 없이 파기됩니다.
 4. 비밀번호는 암호화 되어 저장됩니다. 
 더 자세한 내용에 대해서는 출사누리 개인정보취급방침을 참고하시길 바랍니다.
-</mutableString>
+</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -4433,9 +4433,9 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="bDE-Rm-hwR"/>
+        <segue reference="rq7-fL-Zxv"/>
         <segue reference="prO-7n-Iv7"/>
-        <segue reference="wgm-WB-TyU"/>
+        <segue reference="wpQ-Ry-4vm"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="Nabbu" width="148" height="166.66667175292969"/>
