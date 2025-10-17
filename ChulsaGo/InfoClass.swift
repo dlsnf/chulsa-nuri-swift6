@@ -69,7 +69,7 @@ class InfoClass : UIViewController {
             infoVC.view.isUserInteractionEnabled = false;
             infoVC.view.isHidden = true;
             infoVC.view.bounds.origin.x = 0;
-            infoVC.view.bounds.origin.y = -(height + 16);
+            infoVC.view.bounds.origin.y = -(height + 40);
             
             
             
@@ -128,7 +128,7 @@ class InfoClass : UIViewController {
                        initialSpringVelocity:0,
                        options: .curveEaseInOut,
                        animations: {
-                        self.infoVC.view.bounds.origin.y = -(height + 34);
+                        self.infoVC.view.bounds.origin.y = -(height + 40);
                         
                         
         }, completion: { (finished) -> Void in
@@ -212,7 +212,7 @@ class InfoClass2 : UIViewController {
             infoVC.view.isUserInteractionEnabled = false;
             infoVC.view.isHidden = true;
             infoVC.view.bounds.origin.x = 0;
-            infoVC.view.bounds.origin.y = -(height + 16);
+            infoVC.view.bounds.origin.y = -(height + 40);
             
             
             
@@ -271,7 +271,7 @@ class InfoClass2 : UIViewController {
                        initialSpringVelocity:0,
                        options: .curveEaseInOut,
                        animations: {
-                        self.infoVC.view.bounds.origin.y = -(height + 34);
+                        self.infoVC.view.bounds.origin.y = -(height + 40);
                         
                         
         }, completion: { (finished) -> Void in

@@ -312,7 +312,16 @@ class MyPageViewController: UIViewController,
         let alert = UIAlertController(title: NSLocalizedString("user block", comment: ""), message: NSLocalizedString("are you sure you want to block this user?", comment: ""), preferredStyle: .alert)
         alert.addAction(UIAlertAction(title: NSLocalizedString("cancel", comment: ""), style: .cancel))
         alert.addAction(UIAlertAction(title: NSLocalizedString("ok", comment: ""), style: .default) { _ in
-            let param = "key=nuri&seq=\(self.get_seq)"
+            
+            let loginSession = UserDefaults.standard.object(forKey: "loginSesstion") as? Int ?? -1
+            if loginSession == -1 {
+                
+                let confirm = UIAlertController(title: NSLocalizedString("done", comment: ""), message: NSLocalizedString("fail blocked.", comment: ""), preferredStyle: .alert)
+                confirm.addAction(UIAlertAction(title: "OK", style: .default))
+                
+                return
+            }
+            let param = "key=nuri&user_seq=\(loginSession)&block_user_seq=\(self.get_seq)"
             Ajax.forecast(withUrl: AppDelegate.serverUrl + "/chulsago/user_block.php", withParam: param) { result in
                 print("Block result: \(result)")
                 DispatchQueue.main.async {

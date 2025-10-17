@@ -888,7 +888,7 @@
 			baseConfigurationReference = 310E71399B5F285A0068C843 /* Pods-ChulsaGo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CURRENT_PROJECT_VERSION = 22;
+				CURRENT_PROJECT_VERSION = 23;
 				DEVELOPMENT_TEAM = Y792F5QA96;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -898,7 +898,7 @@
 				INFOPLIST_FILE = ChulsaGo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 2.2;
+				MARKETING_VERSION = 2.3;
 				OTHER_LDFLAGS = (
 					"$(OTHER_LDFLAGS)",
 					"-ObjC",
@@ -917,7 +917,7 @@
 			baseConfigurationReference = A259B5356042F18DFE925676 /* Pods-ChulsaGo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CURRENT_PROJECT_VERSION = 22;
+				CURRENT_PROJECT_VERSION = 23;
 				DEVELOPMENT_TEAM = Y792F5QA96;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -927,7 +927,7 @@
 				INFOPLIST_FILE = ChulsaGo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 2.2;
+				MARKETING_VERSION = 2.3;
 				OTHER_LDFLAGS = (
 					"$(OTHER_LDFLAGS)",
 					"-ObjC",

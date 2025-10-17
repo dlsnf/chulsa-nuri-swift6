@@ -179,68 +179,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "2773010C-B02C-47FE-94C2-5DB1EA58C507"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChulsaGo/pinDetailViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1153"
-            endingLineNumber = "1153"
-            landmarkName = "doubleImageViewTap(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "9F5B3CC5-9E7D-4442-8660-2728F2106BB7"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ChulsaGo/pinDetailViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1152"
-            endingLineNumber = "1152"
-            landmarkName = "doubleImageViewTap(_:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "9F5B3CC5-9E7D-4442-8660-2728F2106BB7 - 3590657d97a2d872"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ChulsaGo.pinDetailViewController.doubleImageViewTap(ChulsaGo.MyTapGestureRecognizer) -&gt; ()"
-                  moduleName = "ChulsaGo.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/pinDetailViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1152"
-                  endingLineNumber = "1152">
-               </Location>
-               <Location
-                  uuid = "9F5B3CC5-9E7D-4442-8660-2728F2106BB7 - d541d5b61a2ad6d4"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #3 @Swift.MainActor @Sendable () -&gt; () in ChulsaGo.pinDetailViewController.doubleImageViewTap(ChulsaGo.MyTapGestureRecognizer) -&gt; ()"
-                  moduleName = "ChulsaGo.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/pinDetailViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1152"
-                  endingLineNumber = "1152">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "2AC8A4CF-53C6-467D-B8BA-FAFD2135DB9D"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -337,31 +275,61 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "45286538-39E0-4D7A-92D8-EA2B9D8C23E3"
+            uuid = "388297DC-17D2-422F-9B20-BD184A438C68"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ChulsaGo/MyPageViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "321"
-            endingLineNumber = "321"
+            startingLineNumber = "325"
+            endingLineNumber = "325"
             landmarkName = "userBlock()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "388297DC-17D2-422F-9B20-BD184A438C68 - a7b02c1c41e79f8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in ChulsaGo.MyPageViewController.userBlock() -&gt; ()"
+                  moduleName = "ChulsaGo.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/MyPageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "325"
+                  endingLineNumber = "325">
+               </Location>
+               <Location
+                  uuid = "388297DC-17D2-422F-9B20-BD184A438C68 - 6cae3b4d4447b54f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; () in closure #1 (__C.UIAlertAction) -&gt; () in ChulsaGo.MyPageViewController.userBlock() -&gt; ()"
+                  moduleName = "ChulsaGo.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ssi/Desktop/chulsa-nuri-swift6/ChulsaGo/MyPageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "325"
+                  endingLineNumber = "325">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "A4412AF6-2B83-422A-BF69-9975986163B5"
+            uuid = "56C12C3F-B6A5-48A8-858E-F0CBBAFDC0E2"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ChulsaGo/MyPageViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "319"
-            endingLineNumber = "319"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
             landmarkName = "userBlock()"
             landmarkType = "7">
          </BreakpointContent>
