@@ -22,12 +22,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
     
     static var homePinType = String()
-    static let serverUrl = "1"
+    static let serverUrl = ""
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         
-        KakaoSDK.initSDK(appKey: "1")  // Native App Key 직접 입력
+        KakaoSDK.initSDK(appKey: "")  // Native App Key 직접 입력
         
         // Google Firebase
 //        FirebaseApp.configure()
